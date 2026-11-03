@@ -12,7 +12,7 @@ This repository documents my progress as I learn web design and frontend develop
 
 ## Projects
 
-### 1. Mohib Cookies
+### 1. Mohib Cookies Company
 
 A beginner HTML website for a fictional cookie company.
 
