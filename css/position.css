@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    min-height: 1500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    background-color: #eeeeee;
+    height: 350px;
+    padding: 20px;
+}
+
+.box {
+    color: white;
+    padding: 20px;
+    width: 120px;
+    margin: 10px;
+}
+
+.static {
+    position: static;
+    background-color: #2196f3;
+}
+
+.relative {
+    position: relative;
+    left: 30px;
+    top: 10px;
+    background-color: #4caf50;
+}
+
+.absolute {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background-color: #ff9800;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #e91e63;
+    color: white;
+    padding: 15px;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    background-color: #673ab7;
+    color: white;
+    padding: 15px;
+    z-index: 10;
+}
+
+.content {
+    padding: 30px;
+}
