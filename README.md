@@ -12,13 +12,20 @@ This repository documents my progress as I learn web design and frontend develop
 
 ## Projects
 
-### 1. Mohib Cookies Company
+🍪 Mohib Cookies Company
 
-A beginner HTML website for a fictional cookie company.
+A modern and responsive cookie business website built using HTML, CSS, and JavaScript.
 
-Pages:
-- index.html — Homepage
-- recipe.html — Cookie recipes
+Features:
+
+- Responsive website design
+- Cookie product showcase
+- WhatsApp ordering functionality
+- Interactive navigation
+
+🔗 GitHub Repository: https://github.com/mohibullah-cs/mohib-cookies-company
+
+🌐 Live Website: https://mohibullah-cs.github.io/mohib-cookies-company/
 
 ## Learning Goals
 
