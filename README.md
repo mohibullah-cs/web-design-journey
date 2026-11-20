@@ -12,7 +12,7 @@ This repository documents my progress as I learn web design and frontend develop
 
 ## Projects
 
-🍪 Mohib Cookies Company
+1.🍪 Mohib Cookies Company
 
 A modern and responsive cookie business website built using HTML, CSS, and JavaScript.
 
@@ -26,6 +26,23 @@ Features:
 🔗 GitHub Repository: https://github.com/mohibullah-cs/mohib-cookies-company
 
 🌐 Live Website: https://mohibullah-cs.github.io/mohib-cookies-company/
+
+2.Mohib Salman & Grooming
+
+A modern men's salon and grooming website built using HTML, CSS, and JavaScript. Designed with a premium black-and-gold theme, the website showcases grooming services, pricing, and appointment booking options.
+
+Features:
+
+- Responsive design for mobile and desktop
+- Modern black-and-gold UI
+- Haircut and beard grooming services
+- Service pricing and packages
+- WhatsApp appointment booking
+- Contact and location information
+
+🔗 GitHub Repository: https://github.com/mohibullah-cs/mohib-salon-and-grooming
+
+🌐 Live Website: https://mohibullah-cs.github.io/mohib-salon-and-grooming/
 
 ## Learning Goals
 
