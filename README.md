@@ -7,8 +7,8 @@ This repository documents my progress as I learn web design and frontend develop
 ## Technologies
 
 - HTML
-- CSS (upcoming)
-- JavaScript (upcoming)
+- CSS
+- JavaScript
 
 ## Projects
 
